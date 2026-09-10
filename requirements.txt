@@ -1,7 +1,8 @@
 pandas
 numpy
 scikit-learn
+imbalanced-learn
 tensorflow
-matplotlib
 shap
-joblib
+matplotlib
+seaborn
